@@ -1,7 +1,7 @@
 <!-- INTRODUCTION -->
 <br />
 <div align="center">
-  <img src="https://github.com/Leeexyy4/Guilbert_Emma_TransfertCouleur_Python/blob/main/assets/readme/img/Fleur.png" alt="Logo" width="*" height="*">
+  <img src="https://github.com/Leeexyy4/Guilbert_Emma_TransfertCouleur_Python/blob/main/assets/readme/img/Fleur.jpg" alt="Logo" width="*" height="*">
 
   <p align="center">
     Projet de transfert de couleurs entre images
@@ -67,7 +67,7 @@ Le transfert de couleurs trouve des usages variés dans :
 <!-- EXEMPLE : DAENERYS TARGARYEN -->
 ### Exemple : Daenerys Targaryen
 
-<img src="https://github.com/Leeexyy4/Guilbert_Emma_TransfertCouleur_Python/blob/main/assets/readme/img/Daenerys.png" alt="Daenerys" width="*" height="*">
+<img src="https://github.com/Leeexyy4/Guilbert_Emma_TransfertCouleur_Python/blob/main/assets/readme/img/Daenerys.jpg" alt="Daenerys" width="*" height="*">
 
 Pour tester la technique, une image du personnage Daenerys Targaryen (*Game of Thrones*) a été utilisée. Voici les résultats obtenus :
 
